@@ -1,0 +1,7 @@
+C:\Users\Edwin\source\repos\SPS Game\SPS Game\bin\Debug\SPS Game.exe.config
+C:\Users\Edwin\source\repos\SPS Game\SPS Game\bin\Debug\SPS Game.exe
+C:\Users\Edwin\source\repos\SPS Game\SPS Game\bin\Debug\SPS Game.pdb
+C:\Users\Edwin\source\repos\SPS Game\SPS Game\obj\Debug\SPS Game.csprojAssemblyReference.cache
+C:\Users\Edwin\source\repos\SPS Game\SPS Game\obj\Debug\SPS Game.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\source\repos\SPS Game\SPS Game\obj\Debug\SPS Game.exe
+C:\Users\Edwin\source\repos\SPS Game\SPS Game\obj\Debug\SPS Game.pdb

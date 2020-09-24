@@ -1,0 +1,7 @@
+C:\Users\Edwin\source\repos\multiplies and adds\multiplies and adds\bin\Debug\multiplies and adds.exe.config
+C:\Users\Edwin\source\repos\multiplies and adds\multiplies and adds\bin\Debug\multiplies and adds.exe
+C:\Users\Edwin\source\repos\multiplies and adds\multiplies and adds\bin\Debug\multiplies and adds.pdb
+C:\Users\Edwin\source\repos\multiplies and adds\multiplies and adds\obj\Debug\multiplies and adds.csprojAssemblyReference.cache
+C:\Users\Edwin\source\repos\multiplies and adds\multiplies and adds\obj\Debug\multiplies and adds.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\source\repos\multiplies and adds\multiplies and adds\obj\Debug\multiplies and adds.exe
+C:\Users\Edwin\source\repos\multiplies and adds\multiplies and adds\obj\Debug\multiplies and adds.pdb

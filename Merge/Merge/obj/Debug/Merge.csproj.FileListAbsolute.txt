@@ -1,0 +1,7 @@
+C:\Users\Edwin\source\repos\Merge\Merge\bin\Debug\Merge.exe.config
+C:\Users\Edwin\source\repos\Merge\Merge\bin\Debug\Merge.exe
+C:\Users\Edwin\source\repos\Merge\Merge\bin\Debug\Merge.pdb
+C:\Users\Edwin\source\repos\Merge\Merge\obj\Debug\Merge.csprojAssemblyReference.cache
+C:\Users\Edwin\source\repos\Merge\Merge\obj\Debug\Merge.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\source\repos\Merge\Merge\obj\Debug\Merge.exe
+C:\Users\Edwin\source\repos\Merge\Merge\obj\Debug\Merge.pdb
